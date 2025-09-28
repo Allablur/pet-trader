@@ -66,3 +66,17 @@ footer {
   color: white;
   margin-top: 2rem;
 }
+
+.pet-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem 0;
+  text-align: center;
+  background: #fff;
+}
+.pet-card img {
+  max-width: 150px;
+  border-radius: 8px;
+  margin-bottom: 0.5rem;
+}
